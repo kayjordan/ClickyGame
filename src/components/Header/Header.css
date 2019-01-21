@@ -1,0 +1,38 @@
+
+.header {
+  
+  width: 100%;
+  min-height: 200px;
+  color: black;
+  top: 0;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.score { 
+  font-size: 100px;
+}
+h2 { 
+  font-size: 100px;
+}
+li { 
+  list-style-type: none;
+
+}
+.title {
+  font-size: 100px;
+
+
+}
+
+#score {
+  font-size: 5.2em;
+}
+
+h4 { 
+
+  color: magenta;
+  font-size: 40px;
+}
+
+

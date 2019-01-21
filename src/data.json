@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "image": "assets/images/Gothic.jpg",
+      "clicked": false,
+      "alt": "gothic"
+    },
+    {
+      "id": 2,
+      "image": "assets/images/kiss.jpg",
+      "clicked": false,
+      "alt": "kiss"
+    },
+    {
+      "id": 3,
+      "image": "assets/images/veggieman.jpg",
+      "clicked": false,
+      "alt": "veggieman"
+    },
+    {
+      "id": 4,
+      "image": "assets/images/zeus.jpg",
+      "clicked": false,
+      "alt": "zeus"
+    },
+    {
+      "id": 5,
+      "image": "assets/images/mona.jpg",
+      "clicked": false,
+      "alt": "mona"
+    },
+    {
+      "id": 6,
+      "image": "assets/images/starrynight.jpg",
+      "clicked": false,
+      "alt": "starrynight"
+    },
+    {
+      "id": 7,
+      "image": "assets/images/peral.jpg",
+      "clicked": false,
+      "alt": "modigiliani"
+    },
+    {
+      "id": 8,
+      "image": "assets/images/venus.jpg",
+      "clicked": false,
+      "alt": "assets/Picasso"
+    },
+
+    {
+        "id": 8,
+        "image": "assets/images/scream.jpg",
+        "clicked": false,
+        "alt": "scream"
+      },
+
+
+      {
+        "id": 9,
+        "image": "assets/images/van.jpg",
+        "clicked": false,
+        "alt": "van"
+      },
+      {
+        "id": 10,
+        "image": "assets/images/bob.jpg",
+        "clicked": false,
+        "alt": "kiss"
+      },
+      {
+        "id": 11,
+        "image": "assets/images/werid.jpg",
+        "clicked": false,
+        "alt": "weird"
+      },
+      {
+        "id": 12,
+        "image": "assets/images/jesus.jpg",
+        "clicked": false,
+        "alt": "zeus"
+      },
+      {
+        "id": 13,
+        "image": "assets/images/frida.jpg",
+        "clicked": false,
+        "alt": "mona"
+      },
+      {
+        "id": 14,
+        "image": "assets/images/marilyn.jpg",
+        "clicked": false,
+        "alt": "starrynight"
+      },
+      {
+        "id": 15,
+        "image": "assets/images/peasants.jpg",
+        "clicked": false,
+        "alt": "modigiliani"
+      },
+      {
+        "id": 16,
+        "image": "assets/images/kiss2.jpg",
+        "clicked": false,
+        "alt": "assets/Picasso"
+      },
+  
+      {
+          "id": 17,
+          "image": "assets/images/flowers.jpg",
+          "clicked": false,
+          "alt": "scream"
+        }
+  
+
+
+
+
+
+
+    ]
+      
+    
